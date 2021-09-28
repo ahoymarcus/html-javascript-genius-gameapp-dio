@@ -92,6 +92,27 @@ let createColorElement = (color) => {
 };
 
 
+// Função para o próximo nível de jogo
+let nextLevel = () => {
+	score++;
+	
+	shuffleOrder();
+};
+
+
+// Função para game over
+let gameOver = () => {
+	alert(`Pontuação: ${score}\nVocê perdeu o jogo!\nClick em OK para iniciar um novo jogo!`);
+	
+	order = [];
+	clickedOrder = [];
+	
+	playGame();
+};
+
+
+
+
 
 
 
