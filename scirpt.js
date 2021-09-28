@@ -44,6 +44,27 @@ let lightColor = (element, number) => {
 };
 
 
+// Checar se a ordem clicada é a mesma da ordem do jogo
+let checkOrder = () => {
+	for (let i in clickedOrder) {
+		
+		if (clickedOrder[i] != order[i]) {
+			gameOver();
+			
+			break;
+		} 
+	}
+	
+	if (clickedOrder.length == order.length) {
+		alert(`Pontuação: ${score}\nVocê acertou! Iniciando próximo nível!!!`);
+		
+		nextLevel();
+	}
+};
+
+
+
+
 
 
 
