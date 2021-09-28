@@ -15,15 +15,7 @@ E estes são os principais conceitos que serão abordados nele:
 <br />
 
 
-Dependências:
 
--  
-
-
-
-
-
-<br />
 
 ### Testando o jogo:                
 ![Imagem com o primeiro teste do jogo](/images/primeiro-teste-do-jogo.png)
