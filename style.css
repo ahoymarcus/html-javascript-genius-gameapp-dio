@@ -39,6 +39,7 @@ body {
 	border-top-right-radius: 100%;
 }
 
+
 .yellow {
 	grid-area: yellow;
 	background-color: yellow;
@@ -53,7 +54,7 @@ body {
 
 
 .selected {
-	opacity: 0.4;
+	opacity: 0.5;
 }
 
 

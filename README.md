@@ -25,41 +25,13 @@ Dependências:
 
 <br />
 
-### Primeiro teste do jogo:                
+### Testando o jogo:                
 ![Imagem com o primeiro teste do jogo](/images/primeiro-teste-do-jogo.png)
 
 
 
 <br />
 
-### Testando           
-![Testando a função 'redirect' da API usando o código hash encurtado e visualizando a chamada de retorno com a URL original](/public/images/)
-
-
-
-<br />
-
-### Fazendo          
-![Fazendo a integração da aplicação com o banco de dados MongoDB](/images/)
-
-
-
-
-<br />
-
-### Buscando           
-![Buscando no banco de dados com hash inválido](/images/)
-
-
-
-<br />
-
-### Buscando               
-![Buscando no banco de dados com um hash válido e sendo redirecionado para o endereço da URL original](/images/)
-
-
-
-<br />
 
 
 
