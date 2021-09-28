@@ -25,8 +25,8 @@ Dependências:
 
 <br />
 
-### Primeiro             
-![Primeiro testa da aplicação Encurtadora de URL](/public/images/)
+### Primeiro teste do jogo:                
+![Imagem com o primeiro teste do jogo](/public/images/primeiro-teste-do-jogo.png)
 
 
 
