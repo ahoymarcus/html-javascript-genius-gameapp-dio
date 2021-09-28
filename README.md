@@ -26,7 +26,7 @@ Dependências:
 <br />
 
 ### Primeiro teste do jogo:                
-![Imagem com o primeiro teste do jogo](/public/images/primeiro-teste-do-jogo.png)
+![Imagem com o primeiro teste do jogo](/images/primeiro-teste-do-jogo.png)
 
 
 
@@ -40,7 +40,7 @@ Dependências:
 <br />
 
 ### Fazendo          
-![Fazendo a integração da aplicação com o banco de dados MongoDB](/public/images/)
+![Fazendo a integração da aplicação com o banco de dados MongoDB](/images/)
 
 
 
@@ -48,14 +48,14 @@ Dependências:
 <br />
 
 ### Buscando           
-![Buscando no banco de dados com hash inválido](/public/images/)
+![Buscando no banco de dados com hash inválido](/images/)
 
 
 
 <br />
 
 ### Buscando               
-![Buscando no banco de dados com um hash válido e sendo redirecionado para o endereço da URL original](/public/images/)
+![Buscando no banco de dados com um hash válido e sendo redirecionado para o endereço da URL original](/images/)
 
 
 
